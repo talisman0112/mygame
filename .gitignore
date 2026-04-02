@@ -1,0 +1,21 @@
+# 编译输出
+Debug.win32/
+Release.win32/
+bin/
+obj/
+*.pch
+*.lib
+*.dll
+*.exp
+*.ilk
+*.pdb
+*.sdf
+*.opensdf
+*.vsidx
+
+# Cocos 特定编译目录
+cocos2d/cocos/2d/Debug.win32/
+# Visual Studio 临时文件
+.vs/
+*.ipch
+*.db
